@@ -1,4 +1,4 @@
-<a href="https://colab.research.google.com/drive/1s8i7559BJvk-rGHQlWQ3_FTmBaFNaYNf?usp=sharing" target="_blank">EV Charging Station Finder and Slot Booking</a>
+**<a href="https://colab.research.google.com/drive/1s8i7559BJvk-rGHQlWQ3_FTmBaFNaYNf?usp=sharing" target="_blank">EV Charging Station Finder and Slot Booking</a>**
 
 **Description:**<br/>
 The EV Charging Station Finder and Slot Booking system is designed to help electric vehicle (EV) owners find nearby charging stations and book available slots. With the rapid growth of electric vehicles, this tool simplifies the process of locating charging points and reserving a time slot in advance. The system provides a console-based interface for searching and booking, offering an easy and efficient solution without requiring a frontend or database.
