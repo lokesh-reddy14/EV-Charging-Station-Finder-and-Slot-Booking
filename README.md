@@ -28,7 +28,7 @@ Datetime: Manages the time slots for booking availability.<br/>
 
 
 
-**Outcome**<br/>
+**Outcome:**<br/>
 The project successfully demonstrates the ability to search for and book charging slots, providing a practical solution for EV users. The console-based design ensures the tool is easy to use and maintain, while offering essential features for a real-world application.<br/>
 
 
